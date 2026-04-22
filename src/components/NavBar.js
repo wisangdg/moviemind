@@ -10,7 +10,7 @@ export function Logo() {
   return (
     <div className="logo">
       <Film size={32} className="logo-icon" />
-      <h1>usepopcorn</h1>
+      <h1>MovieMind</h1>
     </div>
   );
 }
